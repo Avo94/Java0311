@@ -11,6 +11,7 @@ public class Asterix {
 
         System.out.println(completedPotion);
 
+
         // Second level
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите любое натуральное число для определения его чётности:");

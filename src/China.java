@@ -8,6 +8,7 @@ public class China {
 
         System.out.println(earthPopulation);
 
+
         // Second level
         long felixLifeSeconds = 3_011_456_567L;
         int minute = 60;
